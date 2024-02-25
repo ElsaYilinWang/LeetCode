@@ -1,5 +1,5 @@
 // Leetcode 169 Majority Element
-//Reference: https://www.youtube.com/watch?v=wD7fs5P_MVo
+// Reference: https://www.youtube.com/watch?v=wD7fs5P_MVo
 
 class Solution {
     public int majorityElement(int[] nums) {
