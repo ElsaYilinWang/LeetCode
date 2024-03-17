@@ -12,7 +12,7 @@ class Solution {
             // If same, move both pointers
             if (s.charAt(left) == s.charAt(right)){
                 left ++;
-                right --;
+                right--;
 
             } else {
                 //If not, simply return false

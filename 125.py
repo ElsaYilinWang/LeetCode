@@ -1,5 +1,5 @@
 # LeetCode 125 Valid Palindrom
-# Reference:
+# Reference: https://www.youtube.com/watch?v=jJXJ16kPFWg
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
