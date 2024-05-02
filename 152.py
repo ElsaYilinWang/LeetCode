@@ -1,0 +1,19 @@
+# Leetcode 152 Maximum Product Subarray
+# Reference: https://www.youtube.com/watch?v=lXVy6YWFcRM
+
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        # DP problem
+        res = max(nums)
+        curMin, curMax = 1, 1
+
+        for n in nums:
+            if n == 0:
+                curMin, curMax = 1, 1
+                continue
+            tmp = curMax * n
+            curMax = max(n * curMax, n * curMin, n)
+            curMin = min(tmp, n * curMin, n)
+            res = max(res, curMax)
+        return res
+    
