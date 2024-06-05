@@ -1,5 +1,5 @@
 // LeetCode 274 H-index
-// Reference:
+// Reference: https://leetcode.com/problems/h-index/solutions/4908801/clean-and-well-explained-solution-beats-100-runtime/?envType=study-plan-v2&envId=top-interview-150
 
 /**
  * @param {number[]} citations
