@@ -1,4 +1,4 @@
-// LeetCode 104
+// LeetCode 104 Maximum Depth of Binary Tree
 // Reference: https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
 
 /**
