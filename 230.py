@@ -1,5 +1,5 @@
 # Leetcode 230 Kth Smallest Element in a BST
-# References: https://www.youtube.com/watch?v=5LUXSvjmGCw
+# References:https://www.youtube.com/watch?v=5LUXSvjmGCw
 
 # Definition for a binary tree node.
 # class TreeNode:

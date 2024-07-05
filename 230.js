@@ -1,5 +1,5 @@
 // Leetcode 230 Kth Smallest Element in a BST
-// References:https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/1095674/js-recursive-iterative-inorder-solutions/?envType=study-plan-v2&envId=top-interview-150
+// References: https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/1095674/js-recursive-iterative-inorder-solutions/?envType=study-plan-v2&envId=top-interview-150
 
 /**
  * Definition for a binary tree node.
